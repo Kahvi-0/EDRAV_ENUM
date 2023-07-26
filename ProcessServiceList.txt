@@ -1,0 +1,13 @@
+processes
+PccNTMon.exe
+Services
+TMBMServer
+tmccsf
+tmlisten
+Services
+Symantec Endpoint Protection Scan Service
+SepMasterService
+Symantec Endpoint Protection
+SepScanService
+sepWscSvc
+Symantec Endpoint Protection WSC Service
