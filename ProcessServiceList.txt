@@ -1,6 +1,6 @@
-processes
-PccNTMon.exe
-Services
+
+TrendMicroOfficeScan:PccNTMon.exe
+
 TMBMServer
 tmccsf
 tmlisten
