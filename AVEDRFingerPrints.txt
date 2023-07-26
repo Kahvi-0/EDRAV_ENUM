@@ -1,0 +1,58 @@
+WindowsDefender:WinDefend
+WindowsDefender:Windows Defender Antivirus Service
+DefenderForEndpoint(DoubleCheck):Sense
+DefenderForEndpoint(DoubleCheck):Windows Defender Advanced Threat Protection Service
+WindowsDefender:WdNisSvc
+WindowsDefender:Windows Defender Antivirus Network Inspection Service
+TrendMicroOfficeScan:PccNTMon.exe
+TrendMicroOfficeScan:TMBMServer
+TrendMicroOfficeScan:tmccsf
+TrendMicroOfficeScan:tmlisten
+Symantec:Symantec Endpoint Protection Scan Service
+Symantec:SepMasterService
+Symantec:Symantec Endpoint Protection
+Symantec:SepScanService
+Symantec:sepWscSvc
+Symantec:Symantec Endpoint Protection WSC Service
+Bitdefender:bdagent.exe
+Bitdefender:bdservicehost.exe
+Bitdefender:bdntwrk.exe
+BitdefenderVirusShield:Bitdefender Virus Shield
+BitdefenderVirusShield:VSSERV
+BitdefenderRedLineService:Bitdefender RedLine Service
+BitdefenderRedLineService:bdredline
+BitdefenderRedLineService:bdredline_agent
+ESET:ekm
+ESET:epfw
+ESET:epfwlwf
+ESET:EraAgentSvc
+ESET:epfwwfp
+CrowdStrike:CrowdStrike Falcon Sensor Service
+CrowdStrike:CSFalconContainer.exe
+CrowdStrike:CSFalconService.exe
+SentinelOne:SentinelAgent
+SentinelOne:SentinelOne Endpoint Protection Agent
+SentinelOne:SentinelStaticEngine
+SentinelOne:Manage static engines for SentinelOne Endpoint Protection
+SentinelOne:LogProcessorService
+SentinelOne:Manage logs for SentinelOne Endpoint Protection
+SentinelOne:SentinelStaticEngine.exe
+SentinelOne:SentinelAgent.exe
+CarbonBlack:cb.exe
+Cybereason:CybereasonActiveProbe
+Cybereason:Cybereason Active Probe
+Cybereason:CybereasonCRS
+Cybereason:Cybereason Anti-Ransomware
+Cybereason:CybereasonBlocki
+Cybereason:Cybereason Execution Prevention
+Cybereason:minionhost.exe
+SophosInterceptX:SntpService
+SophosInterceptX:Sophos Network Threat Protection
+SophosInterceptX:Sophos Endpoint Defense Service
+SophosInterceptX:Sophos File Scanner Service
+SophosInterceptX:Sophos Health Service
+SophosInterceptX:Sophos Live Query
+SophosInterceptX:Sophos Managed Threat Response
+SophosInterceptX:Sophos MCS Agent
+SophosInterceptX:Sophos MCS Client
+SophosInterceptX:Sophos System Protection Service
