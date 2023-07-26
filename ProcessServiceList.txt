@@ -1,13 +1,10 @@
-
 TrendMicroOfficeScan:PccNTMon.exe
-
-TMBMServer
-tmccsf
-tmlisten
-Services
-Symantec Endpoint Protection Scan Service
-SepMasterService
+TrendMicroOfficeScan:TMBMServer
+TrendMicroOfficeScan:tmccsf
+TrendMicroOfficeScan:tmlisten
+Symantec:Symantec Endpoint Protection Scan Service
+Symantec:SepMasterService
 Symantec:Symantec Endpoint Protection
-SepScanService
-sepWscSvc
-Symantec Endpoint Protection WSC Service
+Symantec:SepScanService
+Symantec:sepWscSvc
+Symantec:Symantec Endpoint Protection WSC Service
