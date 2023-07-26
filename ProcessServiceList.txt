@@ -7,7 +7,7 @@ tmlisten
 Services
 Symantec Endpoint Protection Scan Service
 SepMasterService
-Symantec Endpoint Protection
+Symantec:Symantec Endpoint Protection
 SepScanService
 sepWscSvc
 Symantec Endpoint Protection WSC Service
