@@ -3,6 +3,7 @@ WindowsDefender:Windows Defender Antivirus Service
 DefenderForEndpoint(DoubleCheck):Sense
 DefenderForEndpoint(DoubleCheck):Windows Defender Advanced Threat Protection Service
 WindowsDefender:WdNisSvc
+WindowsDefender:MsMpEng.exe
 WindowsDefender:Windows Defender Antivirus Network Inspection Service
 TrendMicroOfficeScan:PccNTMon.exe
 TrendMicroOfficeScan:TMBMServer
@@ -39,6 +40,10 @@ SentinelOne:Manage logs for SentinelOne Endpoint Protection
 SentinelOne:SentinelStaticEngine.exe
 SentinelOne:SentinelAgent.exe
 CarbonBlack:cb.exe
+CarbonBlack:RepMgr.exe
+CarbonBlack:RepWSC.exe
+CarbonBlack:CbDefense
+CarbonBlack:CbDefenseWSC
 Cybereason:CybereasonActiveProbe
 Cybereason:Cybereason Active Probe
 Cybereason:CybereasonCRS
@@ -56,3 +61,4 @@ SophosInterceptX:Sophos Managed Threat Response
 SophosInterceptX:Sophos MCS Agent
 SophosInterceptX:Sophos MCS Client
 SophosInterceptX:Sophos System Protection Service
+FortiEDR:FortiEDRCollectorService
