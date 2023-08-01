@@ -12,7 +12,7 @@ while read p; do
 	#echo $p
 	#echo $vendor
 	#echo $proc
-	if grep -F "$proc" $target; then
+	if grep -w -F "$proc" $target; then
 		echo ""
 		echo -e "${RED}Looks like $vendor is running${ENDCOLOUR}"
 		echo ""
