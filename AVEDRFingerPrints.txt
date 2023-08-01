@@ -31,7 +31,6 @@ AVG:avgw.exe
 AVG:avgwb.dat
 AVG:avgwizfw.exe
 AVG:guard.exe
-AVG:guard.exe
 AVGAnti-Virus:avgrsx.exe
 AVGAnti-Virus:avgtray.exe
 AVGAnti-Virus:avgwdsvc.exe
