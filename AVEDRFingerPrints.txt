@@ -281,6 +281,8 @@ ClientSecuritySolution:cssauth.exe
 ClientSecuritySolution:cssauth.exe
 ClientandHostSecurityPlatform:ccemflsv.exe
 ClientandHostSecurityPlatform:ccemflsv.exe
+CortexXDR:cortex-xdr-payload.exe
+CortexXDR:Cortex XDR
 Comodo:CLPS.exe
 Comodo:CLPSLA.exe
 Comodo:CLPSLS.exe
