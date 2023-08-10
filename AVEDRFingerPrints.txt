@@ -162,11 +162,9 @@ BaiduAV:BavTray.exe
 BaiduAV:Bhipssvc.exe
 BaiduAV:SysOptEngineSvc.exe
 BarracudaMalwareRemovalTool:bmrt.exe
-BarracudaMalwareRemovalTool:bmrt.exe
 BitDefenderSecuritySuite:bdagent.exe
 BitDefenderSecuritySuite:bdc.exe
 BitDefenderSecuritySuite:bdlite.exe
-BitDefenderSecuritySuite:bdmcon.exe
 BitDefenderSecuritySuite:bdmcon.exe
 BitDefenderSecuritySuite:bdss.exe
 BitDefenderSecuritySuite:bdsubmit.exe
@@ -278,11 +276,11 @@ ClamAV:ClamTray.exe
 ClamAV:ClamWin.exe
 ClamAV:clamscan.exe
 ClientSecuritySolution:cssauth.exe
-ClientSecuritySolution:cssauth.exe
 ClientandHostSecurityPlatform:ccemflsv.exe
 ClientandHostSecurityPlatform:ccemflsv.exe
 CortexXDR:cortex-xdr-payload.exe
 CortexXDR:Cortex XDR
+CortexXDR:cyserver
 Comodo:CLPS.exe
 Comodo:CLPSLA.exe
 Comodo:CLPSLS.exe
@@ -299,9 +297,7 @@ ComodoInternetSecurity:CIS.EXE
 ComodoInternetSecurity:CISTRAY.EXE
 ComodoPersonalFirewall:cpf.exe
 CrowdStrike:CSFalconContainer.exe
-CrowdStrike:CSFalconService.exe
 CrowdStrike:CrowdStrike Falcon Sensor Service
-CrowdStrikeFalcon:CSFalconService.exe
 CrowdStrikeFalcon:CSFalconService.exe
 Cybereason:AmSvc.exe
 Cybereason:CrAmTray.exe
@@ -385,8 +381,6 @@ EventTrackerbyPrismMicrosystems:evtmgr.exe
 EventTrackerbyPrismMicrosystemschange:ETReporter.exe
 EventTrackerlogcache:ETCorrel.exe
 EwidoSecuritySuite:ewidoctrl.exe
-EwidoSecuritySuite:ewidoctrl.exe
-EwidoSecuritySuite:ewidoguard.exe
 EwidoSecuritySuite:ewidoguard.exe
 F-PROTAntivirus:FPAVServer.exe
 F-PROTAntivirus:FProtTray.exe
@@ -477,7 +471,6 @@ ISSSecurityScanner:issdaemon.exe
 ISS_Proventia_Agent9.0fromIBM:rapuisvc.exe
 ISS_Proventia_Agent9.0fromIBM:vpatch.exe
 IntelManagementandSecurity:PrivacyIconClient.exe
-IntelManagementandSecurity:PrivacyIconClient.exe
 JiangminAVandFW:KVMonXP.kxp
 JiangminAVandFW:KVMonXP_2.kxp
 JiangminAVandFW:KVSrvXP.exe
@@ -491,7 +484,6 @@ JiangminAVandFW:kvsrvxp.exe
 JiangminAVandFW:kvsrvxp_1.exe
 JiangminAVandFW:kvxp.kxp
 Kaspersky:AVP.EXE
-Kaspersky:AVP.exe
 Kaspersky:AVPUI.EXE
 Kaspersky:AvpM.exe
 Kaspersky:KLNAGENT.EXE
@@ -567,8 +559,6 @@ LavasoftAd-Aware:Ad-Aware2007.exe
 LavasoftAd-Aware:aawservice.exe
 LockTimeNetLimiter2Monitor:nlsvc.exe
 MSCBAMServices:SecurityManager.exe
-MSCBAMServices:SecurityManager.exe
-MSContentManagementService:AESecurityService.exe
 MSContentManagementService:AESecurityService.exe
 MWRDeteqtSuiteEDR:Deteqt.Agent.exe
 MWROmniAgent:OmniAgent.exe
@@ -726,27 +716,19 @@ MicrosoftAntiSpywareServerProcess:gcasdtserv.exe
 MicrosoftAntiSpywareServerProcess:gcasserv.exe
 MicrosoftAntiSpywareUpdaterProcess:gcasswupdater.exe
 MicrosoftForefrontClientSecurityManagementService:FcsMs.exe
-MicrosoftForefrontClientSecurityManagementService:FcsMs.exe
-MicrosoftForefrontClientSecurityManagementService:fcsms.exe
 MicrosoftForefrontClientSecurityManagementService:fcsms.exe
 MicrosoftForefrontClientSecurityStateAssessmentService:FcsSas.exe
-MicrosoftForefrontClientSecurityStateAssessmentService:FcsSas.exe
-MicrosoftForefrontClientSecurityStateAssessmentService:fcssas.exe
 MicrosoftForefrontClientSecurityStateAssessmentService:fcssas.exe
 MicrosoftNetworkInspectionSystem:nissrv.exe
 MicrosoftSecurityCenterDataProtectionManager:DPMRA.exe
-MicrosoftSecurityCenterDataProtectionManager:DPMRA.exe
 MicrosoftSecurityEssentials:msseces.exe
 MicrosoftWindowsSecurityCenter:wscntfy.exe
-MicrosoftWindowsSecurityCenter:wscntfy.exe
 NOD32UpdateViewer:NOD32view.exe
-NeroSecurityService:nerosvc.exe
 NeroSecurityService:nerosvc.exe
 NetgateSpyEmergency:SeAnalyzerTool.exe
 NetgateSpyEmergency:SpyEmergency.exe
 NetgateSpyEmergency:SpyEmergencySrv.exe
 NetlimiterTrafficMonitor:NLClient.exe
-NetsysEnterpriseSecurity(Encryption):crdm.exe
 NetsysEnterpriseSecurity(Encryption):crdm.exe
 NetworkMonitorAgent:NMAGENT.EXE
 Nod32:EHttpSrv.exe
@@ -868,7 +850,6 @@ ProcessMonitor:pmon.exe
 Qurb/CAInternetSecurity2008/9AntiSpam:Qoeloader.exe
 Qurb/CAInternetSecurity2008/9AntiSpam:qoeloader.exe
 RadialpointSecurityServicesPCGuard:fws.exe
-RadialpointSecurityServicesPCGuard:fws.exe
 Rising:CCenter.exe
 Rising:RAVXP.exe
 Rising:RavXP.exe
@@ -898,7 +879,6 @@ RisingAntispyware:rasupd.exe
 RisingAntispyware:upfile.exe
 RisingFirewall:rfwmain.exe
 RisingFirewall:rfwsrv.exe
-SIWFBAMServices:SSecurityManager.exe
 SIWFBAMServices:SSecurityManager.exe
 SalfeldPersonalSecurityManager:winlog.exe
 SecretNet:OMSLogManager.exe
@@ -968,7 +948,6 @@ SophosInterceptX:Sophos Managed Threat Response
 SophosInterceptX:Sophos Network Threat Protection
 SophosInterceptX:Sophos System Protection Service
 SpywareBlasterInternetSecurityTool:sgbhp.exe
-SpywareBlasterInternetSecurityTool:sgbhp.exe
 SpywareDoctor:RegMech.exe
 SpywareDoctor:pctsAuxs.exe
 SpywareDoctor:pctsGui.exe
@@ -982,9 +961,6 @@ StatWin:execstat.exe
 StatWin:seestat.exe
 StatWinTotal:swserver.exe
 SteganosSecuritySuiteComponent:slee81.exe
-SteganosSecuritySuiteComponent:slee81.exe
-SunbeltPersonalFirewall4:kpf4gui.exe
-SunbeltPersonalFirewall4:kpf4ss.exe
 SunbeltPersonalFirewall:kpf4gui.exe
 SunbeltPersonalFirewall:kpf4ss.exe
 SuperWinSpy:WrSpySetup.exe
@@ -1282,9 +1258,7 @@ ZoneAlarmIDS:zonealarm.exe
 ZoneAlarmInternetSecuritySuite2007:mantispm.exe
 ZoneAlarmInternetSecuritySuite2007:mantispm.exe
 eEyeRetinaDigitalSecurity:RetinaEngine.exe
-eEyeRetinaDigitalSecurity:RetinaEngine.exe
 eEyeRetinaDigitalSecurity:eeyeevnt.exe
-eTrust:ppmcativedetection.exe
 eTrust:ppmcativedetection.exe
 eTrust:vettray.exe
 eTrustAntivirus:InoRT.exe
@@ -1296,5 +1270,4 @@ eTrustFirewall:ca.exe
 eTrustInternetSecuritySuite:caissdt.exe
 enSiloDataProtectionCollectorService:nslocollectorservice.exe
 nProtect:ixAptSvc.exe
-nProtect:ixAvSvc.exe
 nProtect:ixFwSvc.exe
