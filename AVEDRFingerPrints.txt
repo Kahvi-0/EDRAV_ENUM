@@ -366,6 +366,8 @@ EntensysUserGate5:Administrator.exe
 EntensysUserGate5:control_panel.exe
 EntensysUserGate5:usergate.exe
 EnterpriseSecurityAgent:esmagent.exe
+Elastic:elastic-endpoint
+Elastic:elastic-agent
 EventTracker,popsupanddisappears:evtProcessEcFile.exe
 EventTrackerConsole:ETConsole3.exe
 EventTrackerConsole:EtwControlPanel.exe
