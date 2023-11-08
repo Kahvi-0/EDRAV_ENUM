@@ -1273,3 +1273,6 @@ eTrustInternetSecuritySuite:caissdt.exe
 enSiloDataProtectionCollectorService:nslocollectorservice.exe
 nProtect:ixAptSvc.exe
 nProtect:ixFwSvc.exe
+CheckPointEndpointSecurity:IDAFServerHostService.exe
+CheckPointEndpointSecurity:cptrayWUI.exe
+CheckPointEndpointSecurity:EFRService.exe
