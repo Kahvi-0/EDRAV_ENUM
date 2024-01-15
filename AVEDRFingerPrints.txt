@@ -1276,3 +1276,6 @@ nProtect:ixFwSvc.exe
 CheckPointEndpointSecurity:IDAFServerHostService.exe
 CheckPointEndpointSecurity:cptrayWUI.exe
 CheckPointEndpointSecurity:EFRService.exe
+Kaseya:KaseyaEndpoint.exe
+Kaseya:Kaseya Agent Endpoint
+Kaseya:AgentMon.exe
