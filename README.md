@@ -12,3 +12,10 @@ sc query | findstr _NAME
 ```
 ./AEChecker.sh Processes.txt
 ```
+
+
+# AEenum.ps1
+
+```
+IEX(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/Kahvi-0/EDRAV_ENUM/main/AEcheck.ps1')
+```
