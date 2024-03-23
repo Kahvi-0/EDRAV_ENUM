@@ -1,7 +1,7 @@
 # EDR / AV Enumeration Tools
 
 ## Local on Windows
-###AEenum.ps1
+### AEcheck.ps1
 
 ```
 IEX(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/Kahvi-0/EDRAV_ENUM/main/AEcheck.ps1')
