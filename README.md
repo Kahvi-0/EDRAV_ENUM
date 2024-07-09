@@ -15,12 +15,12 @@ wget https://raw.githubusercontent.com/Kahvi-0/EDRAV_ENUM/main/AERemote.sh && ch
 
 Usage:
 ```
-AVRemote.sh [user] [password] [domain] [target host]
+AERemote.sh [user] [password] [domain] [target host]
 ```
 
 Example:
 ```
-./AEChecker.sh CoolUser 'Password123!' lab 10.10.10.1
+./AERemote.sh CoolUser 'Password123!' lab 10.10.10.1
 ```
 
 ## Local on Linux
