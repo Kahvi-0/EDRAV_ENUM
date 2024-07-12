@@ -29,6 +29,10 @@ Example:
 Place the output if the list of services and/or processes from target hosts into a file and run as shown below.
 
 ```
+wget https://raw.githubusercontent.com/Kahvi-0/EDRAV_ENUM/main/AEChecker.sh && chmod +x AEChecker.sh
+```
+
+```
 tasklist /svc
 
 sc query | findstr _NAME
