@@ -11,16 +11,18 @@ curl -s https://raw.githubusercontent.com/Kahvi-0/EDRAV_ENUM/main/AVEDRFingerPri
 
 echo "Using user $1"
 
+wget https://raw.githubusercontent.com/fortra/impacket/refs/heads/master/examples/tstool.py
+wget https://raw.githubusercontent.com/fortra/impacket/refs/heads/master/examples/services.py
 
 echo "======================================="
 echo " Trying to get processes on $4 "
 echo "======================================="
-tstool.py $3/$1:$2@$4 tasklist > $4Process.txt
+python3 ./tstool.py $3/$1:$2@$4 tasklist > $4Process.txt
 echo "done"
 echo "======================================" 
 echo " Trying to get services on $4 " 
 echo "======================================"
-services.py $3/$1:$2@$4 list >> $4Services.txt
+python3 ./services.py $3/$1:$2@$4 list >> $4Services.txt
 
 echo "done"
 
