@@ -59,4 +59,4 @@ while read p; do
 	fi
 done <AVEDRFingerPrints.txt
 
-rm AVEDRFingerPrints.txt $4Services2.txt $4Processes.txt $4Process.txt $4Services.txt
+rm AVEDRFingerPrints.txt $4Services2.txt $4Processes.txt $4Process.txt $4Services.txt services.py tstool.py
