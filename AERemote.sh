@@ -11,8 +11,8 @@ curl -s https://raw.githubusercontent.com/Kahvi-0/EDRAV_ENUM/main/AVEDRFingerPri
 
 echo "Using user $1"
 
-wget https://raw.githubusercontent.com/fortra/impacket/refs/heads/master/examples/tstool.py
-wget https://raw.githubusercontent.com/fortra/impacket/refs/heads/master/examples/services.py
+wget -q https://raw.githubusercontent.com/fortra/impacket/refs/heads/master/examples/tstool.py
+wget -q https://raw.githubusercontent.com/fortra/impacket/refs/heads/master/examples/services.py
 
 echo "======================================="
 echo " Trying to get processes on $4 "
