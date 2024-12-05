@@ -1295,3 +1295,7 @@ mfencrk:Trellix
 mfeplk:Trellix
 mfevtp:Trellix
 mfewfpk:Trellix
+CovNotify.exe:FieldEffect-Covalence
+covalence-endpoint.exe:FieldEffect-Covalence
+CovAgent:FieldEffect-Covalence
+ManageEngineADAuditPlus:ManageEngine-Agent
