@@ -1296,6 +1296,6 @@ Trellix:mfeplk
 Trellix:mfevtp
 Trellix:mfewfpk
 FieldEffect-Covalence:CovNotify.exe
-FieldEffect-Covalencecovalence-endpoint.exe
+FieldEffect-Covalence:covalence-endpoint.exe
 FieldEffect-Covalence:CovAgent
 ManageEngine-Agent:ManageEngineADAuditPlus
