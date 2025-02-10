@@ -725,7 +725,7 @@ MicrosoftNetworkInspectionSystem:nissrv.exe
 MicrosoftSecurityCenterDataProtectionManager:DPMRA.exe
 MicrosoftSecurityEssentials:msseces.exe
 MicrosoftWindowsSecurityCenter:wscntfy.exe
-NOD32UpdateViewer:NOD32view.exe
+ESET-NOD32UpdateViewer:NOD32view.exe
 NeroSecurityService:nerosvc.exe
 NetgateSpyEmergency:SeAnalyzerTool.exe
 NetgateSpyEmergency:SpyEmergency.exe
@@ -733,12 +733,12 @@ NetgateSpyEmergency:SpyEmergencySrv.exe
 NetlimiterTrafficMonitor:NLClient.exe
 NetsysEnterpriseSecurity(Encryption):crdm.exe
 NetworkMonitorAgent:NMAGENT.EXE
-Nod32:EHttpSrv.exe
-Nod32:egui.exe
-Nod32:ekrn.exe
-Nod32:nod32.exe
-Nod32:nod32krn.exe
-Nod32:nod32kui.exe
+ESET-Nod32:EHttpSrv.exe
+ESET-Nod32:egui.exe
+ESET-Nod32:ekrn.exe
+ESET-Nod32:nod32.exe
+ESET-Nod32:nod32krn.exe
+ESET-Nod32:nod32kui.exe
 NormanAd-AwareSEPlusAntivirus1.06r1andFirewall1:CClaw.exe
 NormanAd-AwareSEPlusAntivirus1.06r1andFirewall1:NIP.exe
 NormanAd-AwareSEPlusAntivirus1.06r1andFirewall1:NJeeves.exe
