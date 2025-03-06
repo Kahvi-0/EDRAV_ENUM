@@ -1221,6 +1221,8 @@ TrendMicroServerProtect:spntsvc.exe
 TrendMicroServerProtect:stopp.exe
 TrendMicroServerProtect:stwatchdog.exe
 TrendMicroorDrWatson:dwwin.exe
+Stellar-EDR-(Note: this is for OT networks):StellarProtectService
+Stellar-EDR-(Note: this is for OT networks):StellarProtectWscService
 USBDiskSecurity:USBGuard.exe
 USBDiskSecurity:USBGuard.exe
 USBthumbdrivesecurity:UploadRecord.exe
