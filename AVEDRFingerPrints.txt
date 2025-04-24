@@ -137,7 +137,6 @@ Avast:avEngine.exe
 AvastFirewallService:afwServ.exe
 AvastGUI:AvastUI.exe
 AvastInternetSecurity:avastemupdate.exe
-AvastInternetSecurity:unsecapp.exe
 Avira:avcenter.exe
 Avira:avcenter.exe
 Avira:avconfig.exe
@@ -281,6 +280,8 @@ ClientandHostSecurityPlatform:ccemflsv.exe
 CortexXDR:cortex-xdr-payload.exe
 CortexXDR:Cortex XDR
 CortexXDR:cyserver
+CortexXDR:cyserver.exe
+CortexXDR:cytray.exe
 Comodo:CLPS.exe
 Comodo:CLPSLA.exe
 Comodo:CLPSLS.exe
@@ -299,6 +300,8 @@ ComodoPersonalFirewall:cpf.exe
 CrowdStrike:CSFalconContainer.exe
 CrowdStrike:CrowdStrike Falcon Sensor Service
 CrowdStrikeFalcon:CSFalconService.exe
+CrowdStrikeFalcon:csagent.exe
+CrowdStrikeFalcon:falcon.exe
 Cybereason:AmSvc.exe
 Cybereason:CrAmTray.exe
 Cybereason:CrsSvc.exe
@@ -323,6 +326,7 @@ DeepSecurityTMEDR:ds_monitor.exe
 DeepSecurityTMEDR:dsa.exe
 DefenderForEndpoint(DoubleCheck):Sense
 DefenderForEndpoint(DoubleCheck):Windows Defender Advanced Threat Protection Service
+DefenderForEndpoint(DoubleCheck):MsSense.exe
 DrWeb:DRWAGNUI.EXE
 DrWeb:DRWEB32W.EXE
 DrWeb:DRWEBSCD.EXE
@@ -359,6 +363,7 @@ ESET:epfw
 ESET:epfwlwf
 ESET:epfwwfp
 ESETRemoteAdministrator:era.exe
+ESET:ekrn.exe
 EmsisoftInternetSecurity:A2GUARD.EXE
 EmsisoftInternetSecurity:A2SERVICE.EXE
 EmsisoftInternetSecurity:A2START.EXE
@@ -708,6 +713,7 @@ McAfeeePolicyOrchestrator:naprdmgr.exe
 Mcafee:engineserver.exe
 McafeeScannerforLotusNotes:NCDaemon.exe
 McafeeVirusScanFrameworkService:frameworkservic.exe
+Mcafee:mcshield.exe
 MicrosoftAntiSpyware:giantantispywaremain.exe
 MicrosoftAntiSpyware:giantantispywareupdater.exe
 MicrosoftAntiSpywareAlertProcess:gcasservalert.exe
@@ -949,6 +955,8 @@ SophosInterceptX:Sophos MCS Client
 SophosInterceptX:Sophos Managed Threat Response
 SophosInterceptX:Sophos Network Threat Protection
 SophosInterceptX:Sophos System Protection Service
+Sophos:sophosfs.exe
+Sophos:sophosav.exe
 SpywareBlasterInternetSecurityTool:sgbhp.exe
 SpywareDoctor:RegMech.exe
 SpywareDoctor:pctsAuxs.exe
@@ -1301,3 +1309,4 @@ FieldEffect-Covalence:CovNotify.exe
 FieldEffect-Covalence:covalence-endpoint.exe
 FieldEffect-Covalence:CovAgent
 ManageEngine-Agent:ManageEngineADAuditPlus
+FireEyeHX:xagt.exe
